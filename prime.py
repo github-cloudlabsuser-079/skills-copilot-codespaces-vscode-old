@@ -20,4 +20,4 @@ def prime(n):
     return True  # if n is not divisible by any number from 2 to sqrt(n), it's a prime number
 
 
-print (prime(4))
+print (prime(38))
